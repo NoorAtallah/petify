@@ -61,10 +61,13 @@ Petify is an innovative online platform that connects pet owners with certified 
 4. **Blog**: Read articles to learn more about caring for your pet.
 5. **Adopt a Pet**: Browse pets available for adoption or post a pet needing a new home.
 
-## API Documentation
+## Documentation and Links
 
-For detailed API documentation, please refer to the [API Docs](https://docs.google.com/document/d/1-14t-z-j-n-uWQeDUhoaMg2WBG1URZ_2/edit?usp=sharing&ouid=116319247478880518970&rtpof=true&sd=true).
+For detailed documentation, please refer to the [ Docs](https://docs.google.com/document/d/1-14t-z-j-n-uWQeDUhoaMg2WBG1URZ_2/edit?usp=sharing&ouid=116319247478880518970&rtpof=true&sd=true).
 [Brief](https://docs.google.com/document/d/1UqJBTZqQc6WAyZKcPKS4vn-RZTDehC09/edit?usp=sharing&ouid=116319247478880518970&rtpof=true&sd=true)
+[Petify Figma](https://www.figma.com/design/5tHF9MtDEBeuET87I3kiKl/Untitled?node-id=0-1&t=hbYzQzde6UE4x9dN-1).
+[Presntation]([https://www.figma.com/design/5tHF9MtDEBeuET87I3kiKl/Untitled?node-id=0-1&t=hbYzQzde6UE4x9dN-1](https://www.canva.com/design/DAGUq8A66lE/2_0BTIsvTz8TKM1GK4-Yyw/edit?utm_content=DAGUq8A66lE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)).
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps to contribute:
