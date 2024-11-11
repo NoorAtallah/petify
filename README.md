@@ -81,7 +81,5 @@ Contributions are welcome! Please follow these steps to contribute:
 
 
 
-## Figma
 
- [Petify](https://www.figma.com/design/5tHF9MtDEBeuET87I3kiKl/Untitled?node-id=0-1&t=hbYzQzde6UE4x9dN-1).
 
