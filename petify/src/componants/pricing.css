@@ -1,0 +1,77 @@
+.pricing-container {
+    /* margin-top: -100px; */
+    height: 100%;
+    text-align: center;
+    padding: 50px 20px;
+  }
+  
+.pricing-container h1{
+     font-size: 1.5rem;
+     font-weight: bold;
+}
+
+
+  .subscription-plans {
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    flex-wrap: wrap;
+  }
+  
+  .plan {
+    background-color: #E8E1DA;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 20rem;
+  }
+  
+  .plan:hover{
+    box-shadow: 0 0 10px #967D6C;
+  }
+
+  .plan h2 {
+    font-size: 1.5em;
+    margin: 0;
+    /* font-weight: bold; */
+  }
+  
+  .trial {
+    color: #aaa;
+    margin-bottom: 20px;
+  }
+  
+  .plan ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .plan ul li {
+    position: relative;
+    padding-left: 30px;
+    margin: 10px 0;
+  }
+  
+  .plan ul li i {
+    margin-right: 10px;
+  }
+  
+  .price {
+    font-size: 1.5em;
+    margin: 20px 0;
+  }
+  
+  .pricing_btn {
+    background-color: #00D1BD;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #00a08b;
+  }
+  

@@ -1,0 +1,19 @@
+.footprint {
+    position: fixed; 
+    width: 30px;
+    height: 30px;
+    pointer-events: none; 
+    opacity: 0.8;
+    transform: translate(-50%, -50%);
+    animation: fadeOut 1s forwards; 
+    z-index: 9999; 
+  }
+  
+  @keyframes fadeOut {
+    from {
+      opacity: 0.6;
+    }
+    to {
+      opacity: 0;
+    }
+  }
